@@ -1,5 +1,5 @@
 
-# Chennai Rainfall Forecasting Project
+# Hybrid Models for Localized Rainfall Prediction in Chennai Using Statistical and Deep Learning Approaches
 
 ## Project Overview
 
