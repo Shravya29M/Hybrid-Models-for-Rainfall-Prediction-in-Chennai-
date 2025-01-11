@@ -97,6 +97,3 @@ This project demonstrates the use of multiple time-series forecasting models to 
 
 Feel free to explore the different models and tweak the code as needed to improve the performance further.
 
-## License
-
-This project is open-source and
